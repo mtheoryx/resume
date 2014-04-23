@@ -48,3 +48,9 @@ Thumbs.db
 config.yaml
 
 codekit-config.json
+
+*.codekit
+
+*.css
+
+*.map
